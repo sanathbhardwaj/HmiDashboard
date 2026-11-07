@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HMI Dashboard</string>
+
+    <string name="phone_status">Phone (18%)</string>
+    <string name="odo_label">ODO</string>
+    <string name="odo_value">1,324 km</string>
+    <string name="range_label">RANGE</string>
+    <string name="range_value">86 km</string>
+    <string name="battery_value">100%</string>
+
+    <string name="unit_kmh">km/h</string>
+    <string name="speed_placeholder">--</string>
+    <string name="speed_invalid">Invalid speed signal</string>
+    <string name="speed_missing">Speed unavailable</string>
+
+    <string name="link_live">LIVE</string>
+    <string name="link_waiting">CONNECTING…</string>
+    <string name="link_stale">SIGNAL LOST</string>
+
+    <string name="label_motor">MOTOR</string>
+    <string name="motor_on">ON</string>
+    <string name="motor_off">OFF</string>
+    <string name="motor_unknown">--</string>
+
+    <string name="label_kill_switch">KILL SWITCH</string>
+    <string name="kill_active">ACTIVE</string>
+    <string name="kill_inactive">INACTIVE</string>
+    <string name="kill_unknown">--</string>
+
+    <string name="ride_parked">PARKED</string>
+    <string name="ride_ready">READY</string>
+    <string name="ride_riding">RIDING</string>
+    <string name="ride_accelerating">ACCELERATING</string>
+    <string name="ride_coasting">COASTING</string>
+    <string name="ride_motor_disabled">MOTOR DISABLED</string>
+    <string name="ride_unavailable">NO DATA</string>
+</resources>
